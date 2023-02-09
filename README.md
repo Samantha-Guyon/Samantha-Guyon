@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam !</h1>
-  <h3 align="center">Développeuse Web Front-End (𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞!🔥)</h3>
+  <h3 align="center">Front End Web Developer (𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞!🔥)</h3>
     <p align="center"> 𝐷𝑜𝑔 𝑚𝑜𝑚 🐶 𝑇𝑒𝑎 (𝑡ℎ𝑦𝑚𝑒 𝑚𝑖𝑛𝑡) 𝑎𝑑𝑑𝑖𝑐𝑡 🍵 𝑇𝑟𝑎𝑣𝑒𝑙𝑒𝑟 🌎 </p>
       <br>
   <h3 align="center">Languages and Tools :</h3>
