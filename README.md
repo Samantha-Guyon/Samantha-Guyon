@@ -52,6 +52,6 @@
   <h3 align="center">Connect with me in Linkedin :</h3>
     <br>
     <p align="center">
-      <a href="https://linkedin.com/in/linkedin.com/in/samantha-javoy" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samantha-javoy" height="50" width="60" /></a>
+      <a href="https://linkedin.com/in/samantha-javoy" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samantha-javoy" height="50" width="60" /></a>
      </p>
